@@ -1,0 +1,45 @@
+* {
+  color: #fdbb2d;
+  color: #fd1d1d;
+  
+  background: rgb(34, 193, 195);
+  background: linear-gradient(
+    0deg,
+    rgba(34, 193, 195, 1) 0%,
+    rgba(253, 187, 45, 1) 100%
+  );
+  
+  background: rgb(34, 193, 195);
+  background: linear-gradient(
+    0deg,
+    rgba(34, 193, 195, 1) 0%,
+    rgba(45, 253, 73, 1) 100%
+  );
+  
+  background: rgb(34,193,195);
+background: linear-gradient(0deg, rgba(34,193,195,1) 0%, rgba(108,45,253,1) 100%);
+
+  background: #00d2ff; /* fallback for old browsers */
+  background: -webkit-linear-gradient(
+    to right,
+    #928dab,
+    #00d2ff
+  ); /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(
+    to right,
+    #928dab,
+    #00d2ff
+  ); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
+:root {
+  --Var1: #f7e733;
+  --Var2: #faa613;
+  --Var3: #f44708;
+  --Var4: #adf7b6;
+  --Var5: #a8dcd9;
+  --Var6: #b1f8f2;
+  --Var7: #8dffcd;
+  --Var8: #68b684;
+  --Var9: #95e06c;
+  --Var10: #c3f73a;
+}
