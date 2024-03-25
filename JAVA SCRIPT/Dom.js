@@ -1,5 +1,3 @@
-// console.clear();
-
 console.log("FROM DOM ");
 
 window.console.log("TEST");
